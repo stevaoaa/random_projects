@@ -1,3 +1,6 @@
 [submodule "7DaysOfCode"]
 	path = 7DaysOfCode
 	url = https://github.com/stevao-andrade/7DaysOfCode.git
+[submodule "cal_python"]
+	path = cal_python
+	url = https://github.com/stevao-andrade/cal_python.git
